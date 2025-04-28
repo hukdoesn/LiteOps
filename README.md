@@ -2,7 +2,7 @@
 
 # 🚀 LiteOps - 轻量级DevOps平台
 
-<img src="web/src/assets/image/liteops-sidebar.png" alt="LiteOps Logo" width="200"/>
+<img src="liteops-sidebar.png" alt="LiteOps Logo" width="200"/>
 
 **简单、高效的CI/CD解决方案**
 
